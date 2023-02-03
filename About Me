@@ -2,8 +2,48 @@
 <head>
     <title>About Supriya</title>
 </head>
+<style>
+    table, th, td {
+    border:3px solid teal;
+ }
+</style>
 <body>
     <b>This is Supriya Bhagat.</b>
     <p>I am a freshmen currently at NKU and I love learning new things. </p>
-    <a/ href="https://github.com/supriya7890">Link to my GitHub profile</a>
+    <a href="https://github.com/supriya7890">Link to my GitHub profile</a><br>
+    <b>Some of my interest are</b>
+    <ul>
+        <li>learning about new things</li>
+        <li>listening to music</li>
+        <li>watching documentries,TV series, Movies online</li>
+     </ul>
+    <b>Some of my favourite TV shows or movies are</b>
+    <ol>
+        <li>Normal people</li>
+        <li>Sex education</li>
+        <li>Eternal Sunshine of the Spotless Mind</li>
+    </ol>
+    <table>
+    <tr>
+      <td>Age</td>
+      <td>Name</td>
+      <td>Profession</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>Billy</td>
+      <td>Teacher</td>
+    </tr>
+    <tr>
+        <td>45</td>
+        <td>Gary</td>
+        <td>Actor</td>
+      </tr>
+      <tr>
+        <td>55</td>
+        <td>Natasha</td>
+        <td>IT professional</td>
+      </tr>
+</table>
 </body>
+</html>
